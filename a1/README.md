@@ -45,13 +45,10 @@ Three Parts:
 ![Apache Installation Screenshot](img/apache.png)
 ![Apache Installation Screenshot](img/apache2.png)
 
-*Screenshot of running java Hello*:
+| Screenshot of running java Hello | Screenshot of Android Studio - My First App |
+| -------------- | --------------|
+| ![JDK Installation Screenshot](img/javahello.png) | ![Android Studio Installation Screenshot](img/myfirstapp.png) |
 
-![JDK Installation Screenshot](img/javahello.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/myfirstapp.png)
 
 
 #### Tutorial Links:
