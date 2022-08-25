@@ -1,10 +1,10 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# Course LIS4381
+# Course LIS4331
 
 ## Carson Darrow
 
-### LIS4381 Requirements:
+### LIS4331 Requirements:
 
 *Course Work Links:*
 
