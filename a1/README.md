@@ -45,8 +45,8 @@ Three Parts:
 ![Apache Installation Screenshot](img/apache.png)
 ![Apache Installation Screenshot](img/apache2.png)
 
-| Screenshot of running java Hello | Screenshot of Android Studio - My First App |
-| -------------- | ----------|
+| Screenshot of Java Hello | Screenshot of Android Studio - My First App | Skillset 9 |
+| -------------- | --------------| ------------- |
 | ![JDK Installation Screenshot](img/javahello.png) | ![Android Studio Installation Screenshot](img/myfirstapp.png) |
 
 
