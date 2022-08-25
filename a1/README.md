@@ -20,6 +20,7 @@ Three Parts:
 * Screenshot of Apache Installation 
 * Screenshot of running java Hello
 * Screenshot of running Android Studio - My First App
+* Screenshot of Contacts App
 * git commands with short descriptions
 * Bitbucket repo links
 
@@ -50,7 +51,7 @@ Three Parts:
 
 *Screenshot of Android Studio - My First App*:
 
-![Android Studio Installation Screenshot](img/android.png)
+![Android Studio Installation Screenshot](img/myfirstapp.png)
 
 
 #### Tutorial Links:
