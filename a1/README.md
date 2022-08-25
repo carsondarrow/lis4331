@@ -47,7 +47,7 @@ Three Parts:
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![JDK Installation Screenshot](img/javahello.png)
 
 *Screenshot of Android Studio - My First App*:
 
