@@ -45,9 +45,11 @@ Three Parts:
 ![Apache Installation Screenshot](img/apache.png)
 ![Apache Installation Screenshot](img/apache2.png)
 
-| Screenshot of Java Hello | Screenshot of Android Studio - Contacts App |
+![JDK Installation Screenshot](img/javahello.png)
+
+| Screenshot of Android Studio - My First App | Screenshot of Android Studio - Contacts App |
 | -------------- | --------------|
-| ![JDK Installation Screenshot](img/javahello.png) | ![Android Studio Installation Screenshot](img/contacts.mov) |
+| ![my first app](img/myfirstapp.png) | ![Android Studio Installation Screenshot](img/contacts.mov) |
 
 
 
