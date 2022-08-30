@@ -3,21 +3,21 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIs4331
 
 ## Carson Darrow
 
 ### Assignment 1 Requirements:
 
-Three Parts:
+Four Parts:
 
 1. Distributed Version Control with Git and Bitbucket
 2. Development installations
-3. Chapter Questions (Chs 1, 2)
+3. Android Studio Contacts App
+4. Chapter Questions (Chs 1, 2)
 
 #### README.md file should include the following items:
 
-* Screenshot of Apache Installation 
 * Screenshot of running java Hello
 * Screenshot of running Android Studio - My First App
 * Screenshot of Contacts App
@@ -39,11 +39,6 @@ Three Parts:
 7. git version - Displays version information about Git
 
 #### Assignment Screenshots:
-
-*Screenshot of Apache running http://localhost:8080/phpinfo.php*:
-
-![Apache Installation Screenshot](img/apache.png)
-![Apache Installation Screenshot](img/apache2.png)
 
 ![JDK Installation Screenshot](img/javahello.png)
 

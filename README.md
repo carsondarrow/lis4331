@@ -13,7 +13,7 @@
     - Install Android Studio and create My First App
     - Provide screenshots of installation 
     - Create Bitbucket repo
-    - Complete Bitbucket tutorials (bitbucketstations and myteamquotes)
+    - Android Studio - Contacts App
     - Provide git command descriptions 
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
