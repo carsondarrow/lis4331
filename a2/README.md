@@ -33,16 +33,16 @@ Three Parts:
 
 ### Screenshot Recipe App:
 
-| Recipe App #1 | Recipe App #2 |
+| Recipe App #1 |
 | -------------- | --------------|
-| ![Screen 1 Screenshot](img/screen_1.png) ) | ![Screen 2 Screenshot](img/screen_2.png) |
+| ![Screen 1 Screenshot](img/Tip_Calculator.mov) ) |
 
 
 ### Skillset #1 - #3:
 
 | Skillset #1 | Skillset #2 | Skillset #3 |
 | -------------- | --------------| -------------- |
-| ![Skillset #1](img/Even_or_Odd.png) | ![Skillset #2](img/largestNum.png) | ![Skillset #1](img/arrays_loops.png) |
+| ![Skillset #1](img/ss1.png) | ![Skillset #2](img/ss2.png) | ![Skillset #1](img/ss3.png) |
 
 
 
