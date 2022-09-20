@@ -17,11 +17,11 @@
     - Provide git command descriptions 
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - Create Recipe App
-    - Screenshot of switching from two activities from clicking "View Recipe"
-    - Skillset 1: screenshot 1 of Even or Odd program
-    - Skillset 2: screenshot 2 of Largest Number program
-    - Skillset 3: screenshot 3 of Arrays and Loops program
+    - Create Tip Calculator App
+    - Screenshot of video displaying the function of the program
+    - Skillset 1: screenshot 1 of Non OOP Circle program
+    - Skillset 2: screenshot 2 of Multiple Number program
+    - Skillset 3: screenshot 3 of Nested Structures 2 program
     
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - Create Event Application
