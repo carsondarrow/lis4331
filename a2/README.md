@@ -19,7 +19,7 @@ Three Parts:
 
 * Course title, your name, assignment requirements, as per A1
 * Screenshot of running application’s first user interface
-* Screenshot of running application’s second user interface
+* Screenshot of Skillsets 1-3
 * Bitbucket repo links
 
 > This is a blockquote.
