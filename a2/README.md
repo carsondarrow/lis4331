@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIs4331
 
 ## Carson Darrow
 
@@ -11,8 +11,8 @@
 
 Three Parts:
 
-1. Create mobile recipe app using Android Srudio
-2. Make recipe app different in some way
+1. Create mobile Tip Calculator App using Android Srudio
+2. Add drop-down menus 
 3. Chapter Questions (Chs 3 4)
 
 #### README.md file should include the following items:
@@ -31,11 +31,9 @@ Three Parts:
 #### Assignment Screenshots:
 
 
-### Screenshot Recipe App:
+### Screenshot Tip Calculator:
 
-| Recipe App #1 |
-| -------------- | --------------|
-| ![Screen 1 Screenshot](img/Tip_Calculator.mov) ) |
+![Screen 1 Screenshot](img/Tip_Calculator.mov)
 
 
 ### Skillset #1 - #3:
