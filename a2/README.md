@@ -33,7 +33,7 @@ Three Parts:
 
 ### Screenshot Tip Calculator:
 
-![Screen 1 Screenshot](img/Tip_Calculator.mov)
+![Screen 1 Screenshot](img/Tip_Calculator-2.mov)
 
 
 ### Skillset #1 - #3:
