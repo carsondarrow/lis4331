@@ -35,13 +35,27 @@ Three Parts:
 
 ### Skillset #4 - #6:
 
-| Skillset #4 | Skillset #4 | Skillset #4 |
-| -------------- | --------------| --------------- |
-| ![Skillset #4](img/ss4-1.png) | ![Skillset #4](img/ss4-2.png) | ![Skillset #4](img/ss4-3.png) |
+###Skillset #4
+![Skillset #4](img/ss4.png) 
 
-| Skillset #4 | Skillset #4 | Skillset #4 |
+
+| Skillset #5 | Skillset #5 | Skillset #5 |
 | -------------- | --------------| --------------- |
-| ![Skillset #4](img/ss4-4.png) | ![Skillset #4](img/ss4-5.png) | ![Skillset #4](img/ss4-6.png) |
+| ![Skillset #5](img/ss5-1.png) | ![Skillset #5](img/ss5-2.png) | ![Skillset #5](img/ss5-3.png) |
+
+| Skillset #5 | Skillset #5 | Skillset #5 |
+| -------------- | --------------| --------------- |
+| ![Skillset #5](img/ss5-4.png) | ![Skillset #5](img/ss5-5.png) | ![Skillset #4=5](img/ss5-6.png) |
+
+
+| Skillset #6 | Skillset #6 | Skillset #6 |
+| -------------- | --------------| --------------- |
+| ![Skillset #6](img/ss6-1.png) | ![Skillset #6](img/ss6-2.png) | ![Skillset #6](img/ss6-3.png) |
+
+| Skillset #6 | Skillset #6 | Skillset #6 |
+| -------------- | --------------| --------------- |
+| ![Skillset #6](img/ss6-4.png) | ![Skillset #6](img/ss6-5.png) | ![Skillset #6](img/ss6-6.png) |
+
 
 
 
