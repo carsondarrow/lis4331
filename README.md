@@ -24,12 +24,10 @@
     - Skillset 3: screenshot 3 of Nested Structures 2 program
     
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - Create Event Application
-    - Create ERD with 10 insertations
-    - Skillset 4: Screenshot Decision Structures program
-    - Skillset 5: Screenshot Random Number Generator program
-    - Skillset 6: Screenshot Methods program
-    - Link a3 mwb and sql files
+    - Create Currency Coverter App
+    - Skillset 4: Time Conersion
+    - Skillset 5: Even or Odd GUI
+    - Skillset 6: Paint Calc GUI
     
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - Create My Own Local Website
