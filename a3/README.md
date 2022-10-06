@@ -11,16 +11,15 @@
 
 Three Parts:
 
-1. Create a database 
-2. Create an ERD with 10 unique records 
-3. Design an applications that user inputs how many tickets they want and get a price 
+1. Create Currency Conversion App
+2. Use Splash Screen
+3. Screenshot of Skillsets
 
 #### README.md file should include the following items:
 
-* Screenshot of ERD
 * Screenshot of running application's opening user interface
 * Screenshot of running application's processing user input
-* Screenshot of 10 records for each table 
+* Screenshot of GUI Skillsets 
 
 
 > This is a blockquote.
