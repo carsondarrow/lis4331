@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS4331
 
 ## Carson Darrow
 
@@ -22,44 +22,15 @@ Three Parts:
 * Screenshot of running application's processing user input
 * Screenshot of 10 records for each table 
 
-* Link to a3.mwb
-[a3.mwb](docs/a3.mwb)
-
-* Link to a3.sql
-[a3.sql](docs/a3.sql)
-	
 
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
 >
 
-#### ERD:
+#### Conversion App Runing:
 
-![ERD](img/ERD.png)
-
-
-
-#### Application  Running:
-
-
-
-![video](img/concertapp.mov)
-
-
-### Screenshot:
-
-### Pet Store:
-
-![Pet Store](img/petstore.png)
-
-### Customer: 
-![Customer](img/customer.png)
-
-#### Pet:
-![Pet](img/pet.png)
-
-
+![Conversion App Video](img/a3.mov)
 
 
 ### Skillset #4 - #6:
