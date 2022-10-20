@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS4331
 
 ## Carson Darrow 
 
@@ -29,9 +29,9 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Video of Business Card running*:
+*Video of CD's Playlist*:
 
-![Business Card Video](img/businesscardvideocropped.mp4)
+![Music Player](img/cdsPlaylist.mp4)
 
 ### Screenshot of Business Card running:
 
