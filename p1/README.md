@@ -37,7 +37,7 @@ Three Parts:
 
 | **Skillset 7** | **Skillset 7** |
 | -------------- | --------------| 
-| ![Measurement Converter](img/ss7Part1) | ![Measurement Converter](img/ss7Part2)
+| ![Measurement Converter](img/ss7Part1.png) | ![Measurement Converter](img/ss7Part2.png)
 
 **Skillset 8**
 
@@ -45,6 +45,6 @@ Three Parts:
  
 | **Skillset 8** | **Skillset 8** | **Skillset 8** |
 | -------------- | --------------| --------------| 
-| ![Multiple Selection List](img/ss8Part1) | ![Multiple Selection List](img/ss8Part2) | ![Multiple Selection List](img/ss8Part3)
+| ![Multiple Selection List](img/ss8Part1.png) | ![Multiple Selection List](img/ss8Part2.png) | ![Multiple Selection List](img/ss8Part3.png)
 
 
