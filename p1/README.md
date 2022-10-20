@@ -11,9 +11,12 @@
 
 Three Parts:
 
-1. Create My Own Business Card
-2. Develop Understanding on How to Navigate Multiple Pages
-3. Chapter Questions (Chs 7, 8)
+1. Create My Music Playlist
+2. Splash screen image, app title, intro text.
+3. Include artists' images and media.
+4. Images and buttons must be vertically and horizontally aligned.
+5. Must add background color(s) or theme.
+6. Create and display launcher icon image.
 
 #### README.md file should include the following items:
 

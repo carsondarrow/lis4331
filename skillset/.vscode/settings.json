@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "5_even_or_odd",
-        "4_time_conversion",
-        "6_methods/start"
+        "8_Distance_Calculator",
+        "7_Measurment_Conversion",
+        "6_methods",
+        "9_Multiple_Selec_List/MultiSelectList"
     ],
     "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m"
 }

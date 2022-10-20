@@ -46,10 +46,11 @@
     
     
 6. [P1 README.md](p1/README.md "My p1 README.md file")
-    - Create Business Profile Card
-    - Skillset 7: Random Number Generator Validation
-    - Skillset 8: Three Largest Number
-    - Skillset 9: Array Runtime Data Validation
+   - Splash screen image, app title, intro text
+   - Include artists' images and media
+   - Images and buttons must be vertically and horizontally aligned
+   - Must add background color(s) or theme
+   - Create and display launcher icon image
 
 7. [P2 README.md](p2/README.md "My p2 README.md file")
     - Add edit and delete functionality to the pet store database
