@@ -29,18 +29,22 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Video of CD's Playlist*:
+**Video of CD's Playlist**:
 
 ![Music Player](img/cdsPlaylist.mp4)
 
-### Screenshot of Business Card running:
 
-| Business Card Front | Business Card Info |
-| -------------- | --------------|
-| ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/businesscardinfo2.png) |
 
-| Skillset 7 | Skillset 8 | Skillset 9 |
-| -------------- | --------------| ------------- |
-| ![Skillset 7](img/ss7.png) | ![Skillset 8](img/ss8.png) | ![Skillset 9](img/ss9.png) |
+| **Skillset 7** | **Skillset 7** |
+| -------------- | --------------| 
+| ![Measurement Converter](img/ss7Part1) | ![Measurement Converter](img/ss7Part2)
+
+**Skillset 8**
+
+ ![Skillset 8](img/ss8.png)
+ 
+| **Skillset 8** | **Skillset 8** | **Skillset 8** |
+| -------------- | --------------| --------------| 
+| ![Multiple Selection List](img/ss8Part1) | ![Multiple Selection List](img/ss8Part2) | ![Multiple Selection List](img/ss8Part3)
 
 
