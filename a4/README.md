@@ -32,7 +32,7 @@ Three Parts:
 #### Assignment Screenshots :
 
 ###### Main Page
-![Main Page](img/mainpage.png)
+![Main Page](img/Insurance_AdobeExpress.mp4)
 
 ###### Failed Validation Page
 ![Screenshot of failed validation](img/failure.png)
