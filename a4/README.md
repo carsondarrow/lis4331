@@ -33,7 +33,7 @@ Three Parts:
 
 | Home Insurance Video | Splash Activity Page |
 | -------------- | -------------- |
-| ![Home Insurance Video](img/Insurance_AdobeExpress.mp4) | ![Splash Screen](img/SplashScreen.png) |
+| ![Home Insurance Video](img/Insurance_AdobeExpress.mov) | ![Splash Screen](img/SplashScreen.png) |
 
 
 
