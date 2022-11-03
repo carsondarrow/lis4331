@@ -24,17 +24,17 @@
     - Skillset 3: screenshot 3 of Nested Structures 2 program
     
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - Create Currency Coverter App
-    - Skillset 4: Time Conersion
+    - Create Currency Converter App
+    - Skillset 4: Time Conversion
     - Skillset 5: Even or Odd GUI
     - Skillset 6: Paint Calc GUI
     
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - Create My Own Local Website
-    - Added my Assignments to the Proper Tabs
-    - Skillset 10: Array List
-    - Skillset 11: Alpha Numeric Special
-    - Skillset 12: Temperature Conversion
+    - Include splash screen image (or, create your own), app title, intro text
+    - Widgets and images must be vertically and horizontally aligned
+    - Skillset 10: Travel Time
+    - Skillset 11: Product Demo
+    - Skillset 12: Book Demo
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")

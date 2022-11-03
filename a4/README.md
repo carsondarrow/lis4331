@@ -31,25 +31,23 @@ Three Parts:
 
 #### Assignment Screenshots :
 
-##### Home Insurance Video
-![Home Insurance Video](img/Insurance_AdobeExpress.mp4)
-
-##### Splash Activity Page
-![Splash Screen](img/SplashScreen.png)
+| Home Insurance Video | Splash Activity Page |
+| -------------- | -------------- |
+| ![Home Insurance Video](img/Insurance_AdobeExpress.mp4) | ![Splash Screen](img/SplashScreen.png) |
 
 
 
 ### Skillset #10 - #12:
 
-| Skillset #10 |
+| Skillset #10: Travel Time |
 | -------------- |
 | ![Skillset #10](img/ss10.png) |
 
-| Skillset #11 |
+| Skillset #11: Product Demo |
 | -------------- |
 ![Skillset #11](img/ss11.png) | 
 
-| Skillset #12 |
+| Skillset #12: Book Demo |
 | -------------- |
 ![Skillset #12](img/ss12.png) |
 
