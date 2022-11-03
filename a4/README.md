@@ -31,10 +31,10 @@ Three Parts:
 
 #### Assignment Screenshots :
 
-###### Home Insurance Video
+##### Home Insurance Video
 ![Home Insurance Video](img/Insurance_AdobeExpress.mp4)
 
-###### Splash Activity Page
+##### Splash Activity Page
 ![Splash Screen](img/SplashScreen.png)
 
 
