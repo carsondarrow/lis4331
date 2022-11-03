@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS4331
 
 ## Carson Darrow
 
@@ -11,17 +11,17 @@
 
 Three Parts:
 
-1. Create an online portfolio web app
-2. Make sure all links are functional
-3. Provide screenshots of online portfolio
+1. Include splash screen image (or, create your own), app title, intro text.
+2. Widgets and images must be vertically and horizontally alinged.
+3. Must add background color(s) or theme.
+4. Create and display launcher iron image.
+
 
 #### README.md file should include the following items:
 
-* Screenshot of online portfolio main page
-* Screenshot of failed validation
-* Screenshot of passed validation
-* Links to local lis4381 web app: a) [Online Portfolio](http://localhost:8080/repos/lis4381/index.php)
-
+* Screenshot of running application's splash screen.
+* Screenshot of running application's invalid screen (with appropriate image).
+* Screenshots of running application's valid screen (with appropriate image).
 
 
 > This is a blockquote.
@@ -31,14 +31,11 @@ Three Parts:
 
 #### Assignment Screenshots :
 
-###### Main Page
-![Main Page](img/Insurance_AdobeExpress.mp4)
+###### Home Insurance Video
+![Home Insurance Video](img/Insurance_AdobeExpress.mp4)
 
-###### Failed Validation Page
-![Screenshot of failed validation](img/failure.png)
-
-###### Passed Validation Page
-![Screenshot of passed validation](img/correct.png)
+###### Splash Activity Page
+![Splash Screen](img/SplashScreen.png)
 
 
 
