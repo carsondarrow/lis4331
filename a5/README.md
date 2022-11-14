@@ -32,7 +32,6 @@ Three Parts:
 ## Assignment Screenshots :
 
 ### Failed Validation Page 1
-![Invalid](im/)
 
 
 
