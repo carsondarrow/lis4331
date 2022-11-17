@@ -40,9 +40,9 @@
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - Main screen with app title and list of articles
     - DMust find and use your own RSS feed
-    - Skillet 13:
-    - Skillset 14:
-    - Skillset 15: 
+    - Skillet 13: Read/Write
+    - Skillset 14: Simple Interest Calculator
+    - Skillset 15: Array Demo Using Methods
     
     
 6. [P1 README.md](p1/README.md "My p1 README.md file")
