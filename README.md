@@ -38,11 +38,11 @@
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - Develop sever-side validation of a form in php
-    - Develops a form that adds data into a database
-    - Skillet 13: Sphere Volume Calculator
-    - Skillset 14: PHP Simple Calculator
-    - Skillset 15: PHP Write/Read Files
+    - Main screen with app title and list of articles
+    - DMust find and use your own RSS feed
+    - Skillet 13:
+    - Skillset 14:
+    - Skillset 15: 
     
     
 6. [P1 README.md](p1/README.md "My p1 README.md file")
