@@ -43,15 +43,12 @@ Three Parts:
 
 | Skillset #14 |
 | -------------- |
-![Skillset #14](img/ss14 addition.png) | 
-![Skillset #14](img/ss14 addition sucess.png) |
-![Skillset #14](img/ss14 division.png) | 
-![Skillset #14](img/ss14 division fail.png) | 
+| ![Skillset #14](img/ss14.png) |
 
 | Skillset #15 |
 | -------------- |
-![Skillset #15](img/ss15 index.png) |
-![Skillset #15](img/ss15 process.png) |
+| ![Skillset #15](img/ss15.png) |
+
 
 
 
