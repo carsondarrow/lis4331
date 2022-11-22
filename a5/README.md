@@ -11,16 +11,16 @@
 
 Three Parts:
 
-1. 
-2. 
-3. 
-4. 
+1. Created App with List of Articles and Dates Publsihed
+2. Used Own RSS Feed
+3. Link Transfers to Article Online 
 
 #### README.md file should include the following items:
 
-* 
-* 
-* 
+* Screenshots of News Reader Activity and Article
+* Screenshot of Read/Write Java Program
+* Screenshot of Interest Calculator using Java 
+* Screenshot of Array with User-Entered Integers
 
 
 
@@ -31,9 +31,15 @@ Three Parts:
 
 ## Assignment Screenshots :
 
-### Failed Validation Page 1
+### Main Activity
 
+| Main Screen | Description Screen |
+| -------------- |  -------------- |
+| ![Main Screen](img/Main.png) | ![Description Screen](img/Description.png) |
 
+| Article Screen |
+| -------------- |
+| ![Article Screen](img/Article.png) |
 
 ### Skillset #13 - #15:
 
