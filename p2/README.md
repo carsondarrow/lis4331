@@ -44,11 +44,11 @@
 
 | **Delete User Input* | **Delete User Pop Up** | **Delete User View** |
 | -------------- | --------------| --------------| 
-| ![Delete User](img/deleteUserInpuy.png) | ![Delete User](img/deleteUserPopUp.png) | ![Delete User](img/deleteUserOutput.png)
+| ![Delete User](img/deleteUserInput.png) | ![Delete User](img/deleteUserPopUp.png) | ![Delete User](img/deleteUserOutput.png)
 
 ### Admin Users Video:
 
-![Admin Users](img/AdminUsers.mov)
+![Admin Users](img/AdminUsers.mp4)
 
 
 
