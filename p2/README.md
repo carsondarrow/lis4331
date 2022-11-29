@@ -3,25 +3,22 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS4331
 
 ## Carson Darrow
 
 ### Project 2 Requirements:
 
-Four Parts:
-
-1. Add edit functionality to the pet store database
-2. Add delete functionality to the pet store database
-3. Create an RSS feed
-4. Chapter Questions (chs.13 & 14)
+1. Include splash screen 
+2. Must use persistent data: SQLite database
+3. Insert at least five users
+4. Must add background color(s) or theme
+6. Create and display launcher icon image
 
 #### README.md file should include the following items:
 
 * Course title, Your name, Assignment Requirements
-* Screenshot of pet store database running on a browser
-* Screenshot of editing a record in the pet store database
-* Screenshot of the RSS feed
+* At least five screenshots of running application, as per below
 
 > This is a blockquote.
 > 
@@ -30,26 +27,27 @@ Four Parts:
 
 #### Assignment Screenshots:
 
-### Index.php
-![Index](img/index.png)
+| **Main Splash Screen** | **Work Splash Screen** |
+| -------------- | --------------|
+| ![Main Splash Screen](img/mainSplash.png) | ![Work Splash Screen](img/workSplash.png) |
 
-### Edit Petstore 
-![Edit Petstore](img/EditPetstore.png)
 
-### Failed Validation
-![Failed Validation](img/failed validation.png)
+| **Add User Input** | **Add User Pop Up** | **Add User View** |
+| -------------- | --------------| --------------| 
+| ![Add User](img/addUserInput.png) | ![Add User](img/addUserPopUp.png) | ![Add User](img/addUserOutput.png)
 
-### Passed Validation 
-![Passed](img/passed validation.png)
 
-### Delete Record Prompt 
-![Delete Record](img/delete record prompt.png)
+| **Update User Input* | **Update User Pop Up** | **Update User View** |
+| -------------- | --------------| --------------| 
+| ![Update User](img/updateUserInput.png) | ![Update User](img/updateUserPopUp.png) | ![Update User](img/updateUserOutput.png)
 
-### Successful Delete Record 
-![Successful Delete Record](img/success delete record.png)
 
-### RSS Feed
-![RSS](img/rss feed.png)
+| **Delete User Input* | **Delete User Pop Up** | **Delete User View** |
+| -------------- | --------------| --------------| 
+| ![Delete User](img/deleteUserInpuy.png) | ![Delete User](img/deleteUserPopUp.png) | ![Delete User](img/deleteUserOutput.png)
+
+### Admin Users Video
+![Admin Users](img/AdminUsers.mov)
 
 
 
