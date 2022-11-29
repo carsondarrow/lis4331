@@ -46,7 +46,8 @@
 | -------------- | --------------| --------------| 
 | ![Delete User](img/deleteUserInpuy.png) | ![Delete User](img/deleteUserPopUp.png) | ![Delete User](img/deleteUserOutput.png)
 
-### Admin Users Video
+### Admin Users Video:
+
 ![Admin Users](img/AdminUsers.mov)
 
 
