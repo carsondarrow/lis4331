@@ -48,7 +48,7 @@
 
 ### Admin Users Video:
 
-![Admin Users](img/AdminUsers.mp4)
+![Admin Users](img/adminUsers.mp4)
 
 
 
